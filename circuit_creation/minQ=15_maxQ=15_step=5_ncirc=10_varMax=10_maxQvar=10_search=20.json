@@ -1,0 +1,182 @@
+[
+    [
+        {
+            "n": 3,
+            "r": 3,
+            "k": 3,
+            "layers": 1,
+            "seed": 20
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 2,
+            "varsq": [
+                9,
+                6
+            ]
+        }
+    ],
+    [
+        {
+            "n": 5,
+            "r": 2,
+            "k": 5,
+            "layers": 1,
+            "seed": 0
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                9,
+                7
+            ]
+        }
+    ],
+    [
+        {
+            "n": 6,
+            "r": 2,
+            "k": 3,
+            "layers": 1,
+            "seed": 6
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 6,
+            "r": 2,
+            "k": 3,
+            "layers": 1,
+            "seed": 14
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 6,
+            "r": 2,
+            "k": 3,
+            "layers": 1,
+            "seed": 15
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 6,
+            "r": 2,
+            "k": 3,
+            "layers": 1,
+            "seed": 19
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 2,
+            "varsq": [
+                7,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 7,
+            "r": 2,
+            "k": 1,
+            "layers": 1,
+            "seed": 0
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 7,
+            "r": 2,
+            "k": 1,
+            "layers": 1,
+            "seed": 1
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 7,
+            "r": 2,
+            "k": 1,
+            "layers": 1,
+            "seed": 2
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ],
+    [
+        {
+            "n": 7,
+            "r": 2,
+            "k": 1,
+            "layers": 1,
+            "seed": 3
+        },
+        {
+            "nqubits": 15,
+            "nfrags": 2,
+            "nvars": 7,
+            "varsq": [
+                8,
+                8
+            ]
+        }
+    ]
+]

@@ -1,0 +1,1 @@
+{"circuit_conf": {"n": 4, "r": 3, "k": 1, "layers": 1, "seed": 11}, "circuit_name": "n4_r3_k1_p1_s11", "n_qubits": 14, "observable": "ZZZZZZZZZZZZZZ", "perf_exp_val": 3.2187251995663413e-19}
