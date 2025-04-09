@@ -2,7 +2,7 @@
 Tool to make experiments using Cut&Shoot and the settings with only circuit cutting, only shot-wise and with none of them.
 
 ## Installation
-The tool can be installed using poetry:
+The tool can be used after installing the dependencies with pip:
 ```bash
 git clone [this repository]
 cd QExperiments4C-S
@@ -12,8 +12,6 @@ pip install -r requirements.txt
 ## Usage
 
 Cut&Shoot can be used as a command line tool.
-
-Inside the poetry environment, the command line tool can be used as follows:
 
 ```bash
 
